@@ -189,4 +189,4 @@ C:\Users\vaibh02\Documents\School Management\school management system\obj\x86\De
 C:\Users\vaibh02\Documents\School Management\school management system\obj\x86\Debug\school_management_system.SPLASH.resources
 C:\Users\vaibh02\Documents\School Management\school management system\obj\x86\Debug\school management system.csproj.GenerateResource.Cache
 C:\Users\Vaibhav-PC\Downloads\School Management\school management system\bin\Debug\School Management System.exe.config
-C:\Users\Igor\Desktop\School-20180614T093451Z-001\School\school management system\bin\Debug\School Management System.exe.config
+C:\Users\Igor\Desktop\School-20180614T211653Z-001\School\school management system\obj\x86\Debug\school management system.csprojResolveAssemblyReference.cache
